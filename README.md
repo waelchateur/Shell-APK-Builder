@@ -9,3 +9,5 @@ The Shell APK Builder project need be on Internal Storage Directory
 $ FILES_DIR=/data/data/com.android.application/files
 $ RUN_SHELL_PATH=$FILES_DIR/shell_apk_builder/shell/run.sh
 $ $RUN_SHELL_PATH
+Created by @TEKKEN-RCA
+Original repo : https://github.com/TEKKEN-RCA/Shell-APK-Builder
